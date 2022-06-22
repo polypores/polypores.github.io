@@ -4,41 +4,41 @@ tippy('.link',{
 })
 
 window.onload = () => {
-    mailBut.querySelector('#profile')
-    toggleDark()
-    mailBut = document.querySelector('#mail-but')
-    mailTextCont = document.querySelector('#mail-text-cont')
-    mailBut.onclick = () => {
-        mailTextCont.textContent = "Copied into clipboard"
+    $("#mail-but").click(() => {
+        $('#mail-text-cont').text = "Copied into clipboard"
         setTimeout(() =>{ 
-            mailTextCont.textContent = "huynhkhaphi.ltp20@gmail.com"
+            $('#mail-text-cont').text = "huynhkhaphi.ltp20@gmail.com"
         }, 2000)
-    }
+    })
 }
 
 function toggleDark() {
-    toggle.innerHTML = "☀️";
-    body.classList.remove('text-gray-900')
-    body.classList.add('text-gray-100')
-    profile.classList.remove('bg-white')
-    profile.classList.add('bg-gray-900')
+    $("#js-change-theme").html("🌙")
+    // console.log('toggle dark func triggered')
+    $("body").removeClass('text-gray-900')
+    $("body").addClass('text-gray-100')
+    $("#profile").removeClass('bg-white')
+    $("#profile").addClass('bg-gray-900')		
 }
 function toggleLight() {
-    toggle.innerHTML = "🌙";
-    body.classList.remove('text-gray-100')
-    body.classList.add('text-gray-900')
-    profile.classList.remove('bg-gray-900')		
-    profile.classList.add('bg-white')
+    $("body").addClass('bg-gray-900')
+    $("#js-change-theme").html("☀️")
+    // console.log('toggle light func triggered')
+    $("body").removeClass('text-gray-100')
+    $("body").addClass('text-gray-900')
+    $("#profile").removeClass('bg-gray-900')		
+    $("#profile").addClass('bg-white')
 }
 
-// Switch between light mode & dark mode
-const toggle = document.querySelector('.js-change-theme')
-const body = document.querySelector('body')
-const profile = document.getElementById('profile')
-
-toggle.addEventListener('click', () => {
-    if (body.classList.contains('text-gray-900')) 
+$("#js-change-theme").click(() => {
+    if ($("body").hasClass('text-gray-900')) 
         toggleDark()
     else 
         toggleLight()
+})
+
+$(document).ready(() => {
+    $(window).scroll(() => {
+        $("#phi-on-scroll").css("opacity", 1 - $(window).scrollTop() / ($("#phi-on-scroll").height() /2))
+    })
 })
