@@ -1,4 +1,5 @@
 body {
+    height: 3000px !important;
     -webkit-animation: fadein 3s; 
        -moz-animation: fadein 3s; 
         -ms-animation: fadein 3s; 
@@ -45,7 +46,17 @@ body {
     transform: scale(1.05);
 }
 
-.phi-on-scroll {
-    
+/* https://stackoverflow.com/questions/45382875/fade-in-and-out-on-button-click */
+
+.phiElementToFadeIn {animation: fadeIn 3s linear forwards;}
+.phiElementToFadeOut {animation: fadeOut 3s linear forwards;}
+
+@keyframes fadeIn {
+    0% { opacity:0; }
+    100% { opacity:.8; } 
+}
+@keyframes fadeOut {
+    0% { opacity:.8; }
+    100% { opacity:0; } 
 }
 
