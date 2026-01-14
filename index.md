@@ -8,7 +8,7 @@ layout: null
 
 - [How to enable Audio remotely for RDP]()
 
-- [How to establish SSH connection on Windows](https://https://polypores.github.io//EstalishSSHonWindows)
+- [How to establish SSH connection on Windows](https://polypores.github.io//EstalishSSHonWindows)
 
 - [How to remove ghost network drive still remaining after disconecting]()
 
