@@ -1,0 +1,17 @@
+title: NOTHING
+description: A collection of thoughts to last for decades.
+author: NOTHING
+
+# "Minima" is the default theme. It is simple, clean, and reliable.
+theme: minima
+
+# This ensures your links work correctly on "yourname.github.io/repository-name"
+# specificially if you are NOT using a custom domain.
+baseurl: "/polypores.github.io" 
+url: "https://polypores.github.io"
+
+# Permalink settings (Optional: makes URLs cleaner)
+permalink: /:year/:month/:day/:title/
+
+# Markdown settings (Standard)
+markdown: kramdown
