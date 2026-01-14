@@ -2,9 +2,11 @@
 layout: null
 ---
 
-### Tutorial
+# Nothing
 
-- [How to enable Audio remotely for RDP]()
+## Tutorial
+
+- [How to enable Audio remotely for RDP](/EstalishSSHonWindows)
 
 - [How to establish SSH connection on Windows]()
 
@@ -24,7 +26,7 @@ layout: null
 
 
 
-### Network Software
+## Network Software
 
 - [UUP Dump]() - Create customized ISO file with Open Source
 
@@ -40,7 +42,7 @@ layout: null
 
 
 
-### Media handling software
+## Media handling software
 
 - [Handbrake]() - Open source video transcoder
 
@@ -50,7 +52,7 @@ layout: null
 
 
 
-### Memory training software
+## Memory training software
 
 - [Anki]() - Remember easier
 
@@ -64,7 +66,7 @@ layout: null
 
 
 
-### Chess
+## Chess
 
 - [Lc0 - Best network]()
 
@@ -76,7 +78,7 @@ layout: null
 
 
 
-### Browser Extension
+## Browser Extension
 
 - [Unhook]() - Hide YouTube related videos, shorts, comments, suggestions wall, homepage recommendations, trending, and other distractions.
 
