@@ -6,9 +6,9 @@ layout: null
 
 ## Tutorial
 
-- [How to enable Audio remotely for RDP](/EstalishSSHonWindows)
+- [How to enable Audio remotely for RDP]()
 
-- [How to establish SSH connection on Windows]()
+- [How to establish SSH connection on Windows](https://lapislazuli.io.vn/EstalishSSHonWindows)
 
 - [How to remove ghost network drive still remaining after disconecting]()
 
