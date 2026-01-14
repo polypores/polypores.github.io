@@ -14,7 +14,6 @@ layout: null
         
         /* Reading Experience */
         padding: 20px;           /* Prevents text from hitting the very edge */
-        line-height: 1.6;        /* Makes text easier to read */
         color: #333;             /* Dark grey is easier on eyes than pure black */
     }
     
