@@ -47,3 +47,42 @@ layout: null
 - [Shutter Transcoder]() - A converter designed by video editors.
 
     (Nếu bạn muốn encode video source để edit lại trên Premiere thì nên dùng Shutter Transcoder. Còn bạn muốn xuất sang định dạng để upload lên điện thoại, iPAD,... thì nên dùng Handbrake vì có Encoding Preset sẵn. [Bài test mình thực hiện]())
+
+
+
+### Memory training software
+
+- [Anki]() - Remember easier
+
+- [Local Anki Server]() - Use self-hosted server with Wifi (Created by Shige)
+
+- [Tailscale]() - A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads.
+
+- [Cx File Manager]() - a modern free application for managing all the files and applications on your Android quickly and easily.
+
+- [Stretchly]() - Break time reminder app.
+
+
+
+### Chess
+
+- [Lc0 - Best network]()
+
+- [Lc0]() - Open source neural network chess engine with GPU acceleration and broad hardware support.
+
+- [En Croissant]() - The Ultimate Chess Toolkit
+
+- [Lichess.org]() - Free online Chess
+
+
+
+### Browser Extension
+
+- [Unhook]() - Hide YouTube related videos, shorts, comments, suggestions wall, homepage recommendations, trending, and other distractions.
+
+- [Language Reactor]() - A powerful toolbox for learning languages.
+Charity
+
+- The [Stockfish]() testing framework
+
+- [Running the Worker]() for Stockfish
