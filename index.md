@@ -1,6 +1,5 @@
 ---
-layout: page
-title: NOTHING
+layout: null
 ---
 
 ### Tutorial
