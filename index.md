@@ -29,6 +29,8 @@ layout: null
     }
 </style>
 
+<div class="notranslate" markdown="1">
+
 # Nothing
 
 ## Table of contents
@@ -37,107 +39,148 @@ layout: null
 
 2. [Network software](#2-network-software)
 
+
 3. [Media software](#3-media-software)
+
 
 4. [Memory training software](#4-memory-training-software)
 
+
 5. [Chess](#5-chess)
+
 
 6. [Browser extensions](#6-browser-extension)
 
+
 7. [Games](#8-link-game)
+
 
 ## 1. Tutorial
 
+
 - [How to enable Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
-{:.notranslate}
+
 
 - [How to establish SSH connection on Windows](https://polypores.github.io/EstalishSSHonWindows)
-{:.notranslate}
+
 
 - [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive)
-{:.notranslate}
+
 
 - [How to limit battery charging on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
-{:.notranslate}
+
 
 - [How to fix common issue with Brother HL-2321D printer](https://polypores.github.io/2321d)
 
+
 - [Openwrt wiki - Watchcat - network watchdog utility](https://openwrt.org/docs/guide-user/advanced/watchcat)
+
 
 - [APTEK L300 - Hướng dẫn cấu hình Watchcat tự khởi động thiết bị khi mất kết nối internet](https://www.anphat.vn/l300/aptek-l300-watchcat-huong-dan-cau-hinh-tu-khoi-dong-thiet-bi-khi-mat-ket-noi-internet)
 
+
 - [LTE 4G Part 2 - Why you must have 2 antennas for LTE speed](https://www.youtube.com/watch?v=cB1v_YDqjOk)
+
 
 - [Easy-GPU-PV - GPU Paravirtualization on Windows Hyper-V easier](https://github.com/jamesstringer90/Easy-GPU-PV)
 
 
 
+
 ## 2. Network Software
+
 
 - [UUP Dump](https://uupdump.net/) - Create customized ISO file with Open Source
 
+
 - [Ultimate vocal remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - Remove vocals from audio files
+
 
 - [Mumuplayer](https://github.com/Anjok07/ultimatevocalremovergui) - Android Emulator
 
+
 - [Windhawk](https://www.mumuplayer.com/) - The customization marketplace for Windows and programs
 
+
 - [John the Ripper](https://www.openwall.com/john/) - an Open Source password security auditing and password recovery tool. (Educational purpose only)
+
 
 - [Hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker (Educational purpose only)
 
 
 
+
 ## 3. Media software
+
 
 - [Handbrake](https://handbrake.fr/) - Open source video transcoder
 
+
 - [Shutter Transcoder](https://www.shutterencoder.com/) - A converter designed by video editors.
 
+
     (Nếu bạn muốn encode video source để edit lại trên Premiere thì nên dùng Shutter Transcoder. Còn bạn muốn xuất sang định dạng để upload lên điện thoại, iPAD,... thì nên dùng Handbrake vì có Encoding Preset sẵn. [Bài test mình thực hiện](https://postimg.cc/gallery/tHsF1Hm))
+    
 
 
 
 ## 4. Memory training software
 
+
 - [Anki](https://apps.ankiweb.net/) - Remember easier
+
 
 - [Local Anki Server](https://ankiweb.net/shared/info/49665391) - Use self-hosted server with Wifi (Created by Shige)
 
+
 - [Tailscale](https://tailscale.com/) - A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads.
 
+
 - [Cx File Manager](https://cxfileexplorer.com/) - a modern free application for managing all the files and applications on your Android quickly and easily.
+
 
 - [Stretchly](https://github.com/hovancik/stretchly) - Break time reminder app.
 
 
 
+
 ## 5. Chess
+
 
 - [Lc0 - Best network](https://lczero.org/play/networks/bestnets/)
 
+
 - [Lc0](https://lczero.org/) - Open source neural network chess engine with GPU acceleration and broad hardware support.
 
+
 - [En Croissant](https://encroissant.org/) - The Ultimate Chess Toolkit
+
 
 - [Lichess.org](http://Lichess.org) - Free online Chess
 
 
 
+
 ## 6. Browser Extension
+
 
 - [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) - Hide YouTube related videos, shorts, comments, suggestions wall, homepage recommendations, trending, and other distractions.
 
+
 - [Language Reactor](https://chromewebstore.google.com/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm) - A powerful toolbox for learning languages.
+
 
 ## 7. Charity
 
+
 - The [Stockfish](https://github.com/official-stockfish/fishtest) testing framework
+
 
 - [Running the Worker](https://github.com/official-stockfish/fishtest/wiki/Running-the-worker) for Stockfish
 
+
 ## 8. Link Game
+
 
 <details>
   <summary>Password: (Click the arrow) </summary>
@@ -239,3 +282,7 @@ Part 4: https://drive.usercontent.google.com/download?id=1xuCIrqvqFk6wQaj4FzOdxh
 Part 5: https://drive.usercontent.google.com/download?id=11s3XufkZzIpyTMnk9LZqrp4_Wa09OMCo&authuser=0
 
 Part 6: https://drive.usercontent.google.com/download?id=1ogQy4bgFRzAbyWFznSdtlJPXaAbhKbKa&authuser=0
+
+
+
+</div>
