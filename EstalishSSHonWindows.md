@@ -53,7 +53,7 @@ alternatively, via PowerShell Admin:
 
 
 ### 1.2. Start the Service:
-Open services.msc, find OpenSSH SSH Server, set it to Automatic, and Start it.
+Open **services.msc**, find OpenSSH SSH Server, set it to **Automatic**, and **Start** it.
 
 Alternatively, via PowerShell Admin: 
 

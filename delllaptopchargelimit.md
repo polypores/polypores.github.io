@@ -32,7 +32,7 @@ layout: null
 
 Limiting your battery charge (usually to 80%) is excellent for extending the total lifespan of your laptop's battery, especially if you leave it plugged in at a desk for long periods.
 
-There are two primary ways to do this on a Dell Inspiron: via Windows Software (easiest) or via BIOS (most reliable, OS-independent).
+There are two primary ways to do this on a Dell Inspiron: via **Windows Software (easiest)** or via **BIOS (most reliable, OS-independent)**.
 
 ## Method 1: Dell Power Manager / My Dell (Windows)
 
@@ -66,18 +66,22 @@ This method is often better because it works even if you reinstall Windows or sw
 
 1. Restart your laptop.
 
-2. As soon as the Dell logo appears, tap the F2 key repeatedly to enter the BIOS/UEFI Setup.
+2. As soon as the Dell logo appears, tap the **F2 key repeatedly** to enter the BIOS/UEFI Setup.
 
-3. In the BIOS menu, look for a section named Power Management or Power. (On newer UEFI interfaces, it might be on the left sidebar).
+3. In the BIOS menu, look for a section named **Power Management** or Power. (On newer UEFI interfaces, it might be on the left sidebar).
 
-4. Select Primary Battery Charge Configuration.
+![](https://i.postimg.cc/zXKTSdYb/20251221-210841.jpg)
 
-5. Select the Custom radio button.
+4. Look at **Battery Charge Configuration**.
+
+5. Select the **Custom radio button**.
 
 6. You will see two fields:
 
-    Custom Charge Start: Set this to 50% (or 55%).
+    **Custom Charge Start**: Set this to 50% (or 55%).
 
-    Custom Charge Stop: Set this to 80%.
+    **Custom Charge Stop**: Set this to 80%.
 
-7. Click Apply Changes (or press F10) and then Exit.
+![](https://i.postimg.cc/VLnXB7PS/20251221-210913.jpg)
+
+7. Click **Apply Changes** (or press F10) and then Exit.

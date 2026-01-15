@@ -40,6 +40,8 @@ layout: null
         net use
         net use Z: /delete
 
+![](https://i.postimg.cc/3xDrD6Mx/2026-01-15-172211.png)
+
 ## Method 2: Delete from Registry (The "Nuclear" Option)
 
 - Press **Win + R**, type **regedit**, and press **Enter**.
@@ -52,13 +54,23 @@ layout: null
 
 - Right-click the folder corresponding to your stuck drive letter. Select **Delete** and **confirm**.
 
+![](https://i.postimg.cc/Z5yYygkK/2026-01-15-172333.png)
+
 - Restart your computer (or restart **File Explorer**) for the change to take effect.
 
 ## Method 3: Restart File Explorer
 
 - Right-click the Start button and select **Task Manager**.
 
-- Find **Windows Explorer** in the list of processes.
+![](https://i.postimg.cc/B6htCKmv/Screenshot-2026-01-15-172417.png)
+
+- Find **Windows Explorer** in the list of processes. The process may move up and down, may be very hard to click. Consider sort by Name before selecting to avoid restarting incorrect process. 
+
+![](https://i.postimg.cc/RF3xjJMz/2026-01-15-172458.png)
+
+- Or you could use **Details** section in **Task Manager**, and restart **explorer.exe** task.
+
+![](https://i.postimg.cc/0Q61LK8R/2026-01-15-172516.png)
 
 - Right-click it and select **Restart**.
 

@@ -46,6 +46,8 @@ To configure RDP so that audio plays on the remote laptop instead of your local 
 
     Note: **Play on this computer** brings the sound to you. **Play on remote computer** keeps the sound there.
 
+![](https://i.postimg.cc/tJYJv4cQ/Screenshot-2026-01-15-173507.png)
+
 - Click **OK** and then **Connect**.
 
 ## 2. Check Remote Audio Service (If Step 1 Doesn't Work)
@@ -55,6 +57,8 @@ To configure RDP so that audio plays on the remote laptop instead of your local 
 - Scroll down to find **Windows Audio**.
 
 - Double-click it and ensure the **Startup type** is set to **Automatic** and the Service status is **Running**.
+
+![](https://i.postimg.cc/qMqDQHM9/Screenshot-2026-01-15-174050.png)
 
     If the volume icon on the remote laptop has a red "X" over it, click it to trigger the troubleshooter, which often forces the audio service to wake up.
 
@@ -67,3 +71,5 @@ If you are on a corporate network or using Windows Pro/Enterprise, a policy migh
 -  Navigate to: **Computer Configuration > Administrative Templates > Windows Components > Remote Desktop Services > Remote Desktop Session Host > Device and Resource Redirection**.
 
 -  Ensure **Allow audio and video playback redirection** is set to **Enabled** or **Not Configured** (Disabled will block audio entirely).
+
+![](https://i.postimg.cc/b89XyzXw/Screenshot-2026-01-15-174318.png)
