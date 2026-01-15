@@ -2,6 +2,9 @@
 layout: null
 ---
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 
 <style>
     body {
@@ -14,6 +17,7 @@ layout: null
         
         /* Reading Experience */
         padding: 20px;           /* Prevents text from hitting the very edge */
+        font-family: Roboto, sans-serif;
         color: #333;             /* Dark grey is easier on eyes than pure black */
     }
     
@@ -30,15 +34,15 @@ layout: null
 
 ## Tutorial
 
-- [How to enable Audio remotely for RDP]()
+- [How to enable Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
 
 - [How to establish SSH connection on Windows](https://polypores.github.io/EstalishSSHonWindows)
 
-- [How to remove ghost network drive still remaining after disconecting]()
+- [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive)
 
-- [How to limit battery charging on Dell Inspirion laptop]()
+- [How to limit battery charging on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
 
-- [How to fix common issue with Brother HL-2321D printer]()
+- [How to fix common issue with Brother HL-2321D printer](https://polypores.github.io/2321d)
 
 - [Openwrt wiki - Watchcat - network watchdog utility](https://openwrt.org/docs/guide-user/advanced/watchcat)
 
