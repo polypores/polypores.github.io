@@ -58,7 +58,7 @@ layout: null
 
 - [UUP Dump](https://uupdump.net/) - Create customized ISO file with Open Source
 
-- [Ultimate vocal remover GUI]() - Remove vocals from audio files
+- [Ultimate vocal remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - Remove vocals from audio files
 
 - [Mumuplayer](https://github.com/Anjok07/ultimatevocalremovergui) - Android Emulator
 
@@ -76,7 +76,7 @@ layout: null
 
 - [Shutter Transcoder](https://www.shutterencoder.com/) - A converter designed by video editors.
 
-    (Nếu bạn muốn encode video source để edit lại trên Premiere thì nên dùng Shutter Transcoder. Còn bạn muốn xuất sang định dạng để upload lên điện thoại, iPAD,... thì nên dùng Handbrake vì có Encoding Preset sẵn. [Bài test mình thực hiện]())
+    (Nếu bạn muốn encode video source để edit lại trên Premiere thì nên dùng Shutter Transcoder. Còn bạn muốn xuất sang định dạng để upload lên điện thoại, iPAD,... thì nên dùng Handbrake vì có Encoding Preset sẵn. [Bài test mình thực hiện](https://postimg.cc/gallery/tHsF1Hm))
 
 
 
