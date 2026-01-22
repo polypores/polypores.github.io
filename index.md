@@ -57,27 +57,19 @@ layout: null
 
 ## 1. Tutorial
 
-
-- [How to enable Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
-
+- [How to establish Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
 
 - [How to establish SSH connection on Windows](https://polypores.github.io/EstalishSSHonWindows)
 
+- [How to establish battery charging limiting on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
 
-- [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive)
-
-
-- [How to limit battery charging on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
-
+- [How to fix ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive)
 
 - [How to fix common issue with Brother HL-2321D printer](https://polypores.github.io/2321d)
 
-
 - [Openwrt wiki - Watchcat - network watchdog utility](https://openwrt.org/docs/guide-user/advanced/watchcat)
 
-
 - [APTEK L300 - Hướng dẫn cấu hình Watchcat tự khởi động thiết bị khi mất kết nối internet](https://www.anphat.vn/l300/aptek-l300-watchcat-huong-dan-cau-hinh-tu-khoi-dong-thiet-bi-khi-mat-ket-noi-internet)
-
 
 - [LTE 4G Part 2 - Why you must have 2 antennas for LTE speed](https://www.youtube.com/watch?v=cB1v_YDqjOk)
 
