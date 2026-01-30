@@ -35,80 +35,59 @@ layout: null
 
 ## Table of contents
 
-1. [Tutorial](#1-tutorial)
+1. [Tutorial](#tutorial)
 
-2. [Network software](#2-network-software)
-
+2. [Network software](#networksoft)
 
 3. [Media software](#3-media-software)
 
-
 4. [Memory training software](#4-memory-training-software)
-
 
 5. [Chess](#5-chess)
 
-
 6. [Browser extensions](#6-browser-extension)
-
 
 7. [Games](#8-link-game)
 
+---
 
-## 1. Tutorial
-
-
-- [How to enable Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
-
+## 1. Tutorial {#tutorial}
 
 - [How to establish SSH connection on Windows](https://polypores.github.io/EstalishSSHonWindows)
 
+- [How to establish Figma account with Education plan](https://polypores.github.io/figmaEdu)
 
-- [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive)
-
+- [How to enable Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
 
 - [How to limit battery charging on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
 
+- [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive)
 
 - [How to fix common issue with Brother HL-2321D printer](https://polypores.github.io/2321d)
 
-
 - [Openwrt wiki - Watchcat - network watchdog utility](https://openwrt.org/docs/guide-user/advanced/watchcat)
-
 
 - [APTEK L300 - Hướng dẫn cấu hình Watchcat tự khởi động thiết bị khi mất kết nối internet](https://www.anphat.vn/l300/aptek-l300-watchcat-huong-dan-cau-hinh-tu-khoi-dong-thiet-bi-khi-mat-ket-noi-internet)
 
-
 - [LTE 4G Part 2 - Why you must have 2 antennas for LTE speed](https://www.youtube.com/watch?v=cB1v_YDqjOk)
-
 
 - [Easy-GPU-PV - GPU Paravirtualization on Windows Hyper-V easier](https://github.com/jamesstringer90/Easy-GPU-PV)
 
-
-
-
-## 2. Network Software
-
+## 2. Network Software {#networksoft}
 
 - [UUP Dump](https://uupdump.net/) - Create customized ISO file with Open Source
 
-
 - [Ultimate vocal remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - Remove vocals from audio files
-
 
 - [Mumuplayer](https://github.com/Anjok07/ultimatevocalremovergui) - Android Emulator
 
-
 - [Windhawk](https://www.mumuplayer.com/) - The customization marketplace for Windows and programs
 
-
 - [John the Ripper](https://www.openwall.com/john/) - an Open Source password security auditing and password recovery tool. (Educational purpose only)
-
 
 - [Hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker (Educational purpose only)
 
 - [PSU Tier List (mang tính chất tham khảo)](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=931697732#gid=931697732)
-
 
 
 ## 3. Media software

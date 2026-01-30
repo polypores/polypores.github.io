@@ -75,4 +75,6 @@ Cách này áp dụng được với sinh viên đang học và sinh viên nợ 
 
 ![](https://i.postimg.cc/t4qFjPmm/2026-01-21-204545.png)
 
+Ngoài Figma, còn có những phần mềm khác với chức năng tương tự như [Zeplin](https://zeplin.io/), [Penpot](https://penpot.app/).
+
 </div>
