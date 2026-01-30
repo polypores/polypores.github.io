@@ -39,15 +39,17 @@ layout: null
 
 2. [Network software](#networksoft)
 
-3. [Media software](#3-media-software)
+3. [Media software](#mediasoftware)
 
-4. [Memory training software](#4-memory-training-software)
+4. [Memory training software](#memorytrainingsoftware)
 
-5. [Chess](#5-chess)
+5. [Chess](#chess)
 
-6. [Browser extensions](#6-browser-extension)
+6. [Browser extensions](#browserextension)
 
-7. [Games](#8-link-game)
+7. [Charity](#charity)
+
+8. [Games](#linkgame)
 
 ---
 
@@ -89,8 +91,7 @@ layout: null
 
 - [PSU Tier List (mang tính chất tham khảo)](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=931697732#gid=931697732)
 
-
-## 3. Media software
+## 3. Media software {#mediasoftware}
 
 
 - [Handbrake](https://handbrake.fr/) - Open source video transcoder
@@ -106,7 +107,7 @@ layout: null
     Jekyll takes raw text files (written in [Markdown](https://daringfireball.net/projects/markdown/)), passes them through a template engine ([Liquid](https://github.com/Shopify/liquid/wiki)), and churns out a complete, ready-to-publish static website (pure HTML, CSS, and JavaScript). 
 
 
-## 4. Memory training software
+## 4. Memory training software {#memorytrainingsoftware}
 
 
 - [Anki](https://apps.ankiweb.net/) - Remember easier
@@ -121,7 +122,7 @@ layout: null
 
 - [Stretchly](https://github.com/hovancik/stretchly) - Break time reminder app.
 
-## 5. Chess
+## 5. Chess {#chess}
 
 - [Lc0 - Best network](https://lczero.org/play/networks/bestnets/)
 
@@ -135,16 +136,14 @@ layout: null
 
 - [Lichess.org](http://Lichess.org) - Free online Chess
 
-## 6. Browser Extension
-
+## 6. Browser Extension {#browserextension}
 
 - [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) - Hide YouTube related videos, shorts, comments, suggestions wall, homepage recommendations, trending, and other distractions.
-
 
 - [Language Reactor](https://chromewebstore.google.com/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm) - A powerful toolbox for learning languages.
 
 
-## 7. Charity
+## 7. Charity {#charity}
 
 
 - The [Stockfish](https://github.com/official-stockfish/fishtest) testing framework
@@ -153,7 +152,7 @@ layout: null
 - [Running the Worker](https://github.com/official-stockfish/fishtest/wiki/Running-the-worker) for Stockfish
 
 
-## 8. Link Game
+## 8. Link Game {#linkgame}
 
 
 <details>
