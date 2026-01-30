@@ -101,7 +101,9 @@ layout: null
 
     (Nếu bạn muốn encode video source để edit lại trên Premiere thì nên dùng Shutter Transcoder. Còn bạn muốn xuất sang định dạng để upload lên điện thoại, iPAD,... thì nên dùng Handbrake vì có Encoding Preset sẵn. [Bài test mình thực hiện](https://postimg.cc/gallery/tHsF1Hm))
     
+- [Jekyll]() - Jekyll is a static site generator (SSG) written in Ruby. It is the engine behind GitHub Pages, which makes it one of the most popular tools for building websites that do not require a database or complex backend logic. 
 
+    Jekyll takes raw text files (written in [Markdown](https://daringfireball.net/projects/markdown/)), passes them through a template engine ([Liquid](https://github.com/Shopify/liquid/wiki)), and churns out a complete, ready-to-publish static website (pure HTML, CSS, and JavaScript). 
 
 
 ## 4. Memory training software
@@ -115,31 +117,23 @@ layout: null
 
 - [Tailscale](https://tailscale.com/) - A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads.
 
-
 - [Cx File Manager](https://cxfileexplorer.com/) - a modern free application for managing all the files and applications on your Android quickly and easily.
-
 
 - [Stretchly](https://github.com/hovancik/stretchly) - Break time reminder app.
 
-
-
-
 ## 5. Chess
-
 
 - [Lc0 - Best network](https://lczero.org/play/networks/bestnets/)
 
-
 - [Lc0](https://lczero.org/) - Open source neural network chess engine with GPU acceleration and broad hardware support.
-
 
 - [En Croissant](https://encroissant.org/) - The Ultimate Chess Toolkit
 
+- [ShashChess](https://github.com/amchess/ShashChess) - A try to implement Alexander Shashin's theory on a Stockfish's derived chess engine.
+
+- [Stockfish](https://stockfishchess.org/) - Free, open-source, and cross-platform chess engine, trusted by grandmasters and leading chess platforms worldwide.
 
 - [Lichess.org](http://Lichess.org) - Free online Chess
-
-
-
 
 ## 6. Browser Extension
 
@@ -198,7 +192,7 @@ layout: null
 
 7. [Link Google Drive 7](https://drive.usercontent.google.com/download?id=16ulbY-8_SbLIT6zjrgVM2Kf5Bm3YfvF1&authuser=0)
 
-8. [Link Google Drive 8](https://drive.usercontent.google.com/download?id=17PqZTj_wb3GgH9_glgDmQk4JE4T3QJOt&authuser=0)
+8. [Link Google Drive 8](https://drive.usercontent.google.com/download?id=1hs6Ycj5eYb8NDUWqM9S0XRLV7ZQxIRNo&authuser=0)
 
 9. [Link Google Drive 9](https://drive.usercontent.google.com/download?id=1Hz_zblEDMshHBvq6RmZnvbia-JkGml8L&authuser=0)
 
