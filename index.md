@@ -57,8 +57,6 @@ layout: null
 
 - [How to establish SSH connection on Windows](https://polypores.github.io/EstalishSSHonWindows)
 
-- [How to establish Figma account with Education plan](https://polypores.github.io/figmaEdu)
-
 - [How to enable Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
 
 - [How to limit battery charging on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
@@ -66,6 +64,8 @@ layout: null
 - [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive)
 
 - [How to fix common issue with Brother HL-2321D printer](https://polypores.github.io/2321d)
+
+- [How to create Figma account with Education plan](https://polypores.github.io/figmaEdu)
 
 - [Openwrt wiki - Watchcat - network watchdog utility](https://openwrt.org/docs/guide-user/advanced/watchcat)
 
