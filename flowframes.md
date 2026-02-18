@@ -31,4 +31,10 @@ layout: null
 
 <div class="notranslate" markdown="1">
 
+![](https://i.postimg.cc/XJpcv2XQ/2026-02-04-142320.png)
+
+![](https://i.postimg.cc/1tnwSfjh/2026-02-04-142325.png)
+
+![](https://i.postimg.cc/nzjBxCP8/2026-02-04-142330.png)
+
 </div>
