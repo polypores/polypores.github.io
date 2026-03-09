@@ -61,27 +61,15 @@ layout: null
 
 - [How to limit battery charging on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
 
-    Limiting the maximum battery charge prevents the cells from sitting at 100% capacity, which significantly reduces chemical stress and extends the battery's overall lifespan. This practice is particularly beneficial for users who keep their Dell laptops plugged in constantly, as it minimizes the degradation caused by continuous high voltage and heat buildup.
-
 - [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive). 
-
-    Removing ghost drives significantly improves system performance by stopping Windows Explorer from lagging or freezing while it attempts to reconnect to unavailable paths. This practice also ensures data integrity by preventing users and applications from accidentally referencing invalid storage locations or encountering timeout errors.
 
 - [How to fix common issue with Brother HL-2321D printer](https://polypores.github.io/2321d)
 
-    The Brother HL-L2321D is a reliable monochrome laser printer designed for efficiency, offering automatic double-sided printing and fast output speeds of up to 30 pages per minute. Its use of high-yield toner cartridges and a straightforward USB connection makes it a cost-effective workhorse for personal use or small offices that do not require network functionality.
-
 - [How to create Figma account with Education plan](https://polypores.github.io/figmaEdu). 
-
-    The Figma Education plan provides free access to all Professional tier features, including unlimited files, version history, and advanced tools like Dev Mode and variables. This allows students and educators to collaborate seamlessly with shared team libraries, removing financial barriers to mastering industry-standard design workflows.
 
 - [Openwrt wiki - Watchcat - network watchdog utility](https://openwrt.org/docs/guide-user/advanced/watchcat)
 
-    The OpenWrt network watchdog continuously monitors internet connectivity by periodically pinging a specific IP address to ensure the link is active. If the ping fails repeatedly, it automatically restarts the network interface or the router itself to restore the connection without user intervention.
-
 - [APTEK L300 - Hướng dẫn cấu hình Watchcat tự khởi động thiết bị khi mất kết nối internet](https://www.anphat.vn/l300/aptek-l300-watchcat-huong-dan-cau-hinh-tu-khoi-dong-thiet-bi-khi-mat-ket-noi-internet). 
-
-    Its functions are same as above.
 
 - [LTE 4G Part 2 - Why you must have 2 antennas for LTE speed](https://www.youtube.com/watch?v=cB1v_YDqjOk) by @poyntingantennas
 
@@ -99,57 +87,52 @@ layout: null
 
 ## 2. Network Software {#networksoft}
 
-- [UUP Dump](https://uupdump.net/) - Create customized ISO file with Open Source
+- [UUP Dump](https://uupdump.net/)
 
-- [Ultimate vocal remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - Remove vocals from audio files
+- [Ultimate vocal remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
 - [Mumuplayer](https://github.com/Anjok07/ultimatevocalremovergui) - Android Emulator
 
-- [Windhawk](https://www.mumuplayer.com/) - The customization marketplace for Windows and programs
+- [Windhawk](https://www.mumuplayer.com/)
 
-- [John the Ripper](https://www.openwall.com/john/) - an Open Source password security auditing and password recovery tool. (Educational purpose only)
+- [John the Ripper](https://www.openwall.com/john/)
 
-- [Hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker (Educational purpose only)
+- [Hashcat](https://hashcat.net/hashcat/)
 
 - [PSU Tier List (mang tính chất tham khảo)](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=931697732#gid=931697732)
 
 ## 3. Media software {#mediasoftware}
 
-
-- [Handbrake](https://handbrake.fr/) - Open source video transcoder
-
+- [Handbrake](https://handbrake.fr/)
 
 - [Shutter Transcoder](https://www.shutterencoder.com/) - A converter designed by video editors.
 
-
-    (Nếu bạn muốn encode video source để edit lại trên Premiere thì nên dùng Shutter Transcoder. Còn bạn muốn xuất sang định dạng để upload lên điện thoại, iPAD,... thì nên dùng Handbrake vì có Encoding Preset sẵn. [Bài test mình thực hiện](https://postimg.cc/gallery/tHsF1Hm))
+    ([Bài test mình thực hiện](https://postimg.cc/gallery/tHsF1Hm))
     
-- [Jekyll](https://jekyllrb.com/) - Jekyll is a static site generator (SSG) written in Ruby. It is the engine behind GitHub Pages, which makes it one of the most popular tools for building websites that do not require a database or complex backend logic. 
+- [Jekyll](https://jekyllrb.com/) - Jekyll is a static site generator (SSG) written in Ruby. 
 
-    Jekyll takes raw text files (written in [Markdown](https://daringfireball.net/projects/markdown/)), passes them through a template engine ([Liquid](https://github.com/Shopify/liquid/wiki)), and churns out a complete, ready-to-publish static website (pure HTML, CSS, and JavaScript). 
+- [GenP](https://wiki.dbzer0.com/genp-guides/guide/) - a "patcher" or activator tool designed for the Windows operating system.
 
-- [GenP](https://wiki.dbzer0.com/genp-guides/guide/) - a community-developed "patcher" or activator tool designed for the Windows operating system. It is used to bypass the licensing and activation mechanisms of Adobe Creative Cloud software (such as Photoshop, Premiere Pro, After Effects, etc.).
+- [PDFgear](https://www.pdfgear.com/).
 
-- [PDFgear](https://www.pdfgear.com/) - Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up. Alternative to Adobe Acrobat Pro DC (pirated).
+- [Adobe Acrobat Pro DC](https://appdoze.net/adobe-acrobat-pro-dc/).
 
-- [Adobe Acrobat Pro DC](https://appdoze.net/adobe-acrobat-pro-dc/) - an industry-standard tool for professional document workflows, enabling users to edit, sign, protect, and convert PDFs across desktop, mobile, and web platforms.
-
-- [League Director](https://github.com/RiotGames/leaguedirector) - a tool for staging and recording videos from League of Legends replays. [Showcase](https://polypores.github.io/leaguedirector).
+- [League Director](https://github.com/RiotGames/leaguedirector). [Showcase](https://polypores.github.io/leaguedirector).
 
 - [Flowframes]() - Fast Video Interpolation for any GPU. [Showcase](https://polypores.github.io/flowframes), [24 FPS Demo video](https://drive.google.com/file/d/15f7gIVRKRwXeCQ9pz-CAVXmjQQVxrOzI/view?usp=drive_link), [60 FPS interpolated video](https://drive.google.com/file/d/1y7WKGCqRhiTO7gzNkpRYMNFm6CnaPmr-/view?usp=drive_link) (Download & play with [MPC-HC](https://mpc-hc.org/) or [VLC](https://www.videolan.org/) to see the differences.)
 
 ## 4. Memory training software {#memorytrainingsoftware}
 
 
-- [Anki](https://apps.ankiweb.net/) - Remember easier
+- [Anki](https://apps.ankiweb.net/)
 
-- [Local Anki Server](https://ankiweb.net/shared/info/49665391) - Use self-hosted server with Wifi (Created by Shige)
+- [Local Anki Server](https://ankiweb.net/shared/info/49665391)
 
-- [Tailscale](https://tailscale.com/) - A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads. You could use it to connect between your pc, laptop and phone to sync Anki decks.
+- [Tailscale](https://tailscale.com/docs)
 
-- [Cx File Manager](https://cxfileexplorer.com/) - a modern free application for managing all the files and applications on your Android quickly and easily.
+- [Cx File Manager (Android)](https://cxfileexplorer.com/)
 
-- [Stretchly](https://github.com/hovancik/stretchly) - Break time reminder app.
+- [Stretchly](https://github.com/hovancik/stretchly)
 
 ## 5. Chess {#chess}
 
