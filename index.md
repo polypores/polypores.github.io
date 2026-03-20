@@ -59,6 +59,8 @@ layout: null
 
 - [How to enable Audio remotely for RDP](https://polypores.github.io/EnableAudioremotelyforRDP)
 
+- [How to fix credential guard pop up Windows 11 everytime RDP](https://learn.microsoft.com/en-us/answers/questions/4270657/how-to-disable-windows-11-defender-credential-guar)
+
 - [How to limit battery charging on Dell Inspirion laptop](https://polypores.github.io/delllaptopchargelimit)
 
 - [How to remove ghost network drive still remaining after disconecting](https://polypores.github.io/Ghostdrive). 
@@ -329,6 +331,26 @@ layout: null
 - [Part Google Drive 5](https://drive.usercontent.google.com/download?id=11s3XufkZzIpyTMnk9LZqrp4_Wa09OMCo&authuser=0)
 
 - [Part Google Drive 6](https://drive.usercontent.google.com/download?id=1ogQy4bgFRzAbyWFznSdtlJPXaAbhKbKa&authuser=0)
+
+#### God of war: Ragnarok
+
+- [Google drive Part 1](https://drive.usercontent.google.com/download?id=1bSGgoj85RdHfCN1VYD-nY8vDA7tec6eo&authuser=0)
+
+- [Google drive Part 2](https://drive.usercontent.google.com/download?id=1o2L9tirpFEa_4KjEZBdwkpouxZa1GiO6&authuser=0)
+
+- [Google drive Part 3](https://drive.usercontent.google.com/download?id=14ytUahYKLDCsAwp4jGJAioo4_EXXUzFk&authuser=0)
+
+- [Google drive Part 4](https://drive.usercontent.google.com/download?id=1EIUdideYbCcxckw_zBtLPjuaZXS3yV8h&authuser=0)
+
+- [Google drive Part 5](https://drive.usercontent.google.com/download?id=1A-BGV0XYh1OhAklaodjJoj7_pY_1HntX&authuser=0)
+
+- [Google drive Part 6](https://drive.usercontent.google.com/download?id=1q_YBNvktdYkYwBmSk7mblEuzT6kLm7PZ&authuser=0)
+
+- [Google drive Part 7](https://drive.usercontent.google.com/download?id=1w_PF4c8zNy7yfE6DbozCqe6KJrqZ0Ryu&authuser=0)
+
+- [Google drive Part 8](https://drive.usercontent.google.com/download?id=1FwKYYrYg53Li1pCU_i3esdcbyl0k2l5n&authuser=0)
+
+- [Google drive Part 9](https://drive.usercontent.google.com/download?id=1sh7v_YTLdcDhrCTnk023jVjMOidyC2eL&authuser=0)
 
 
 ## 9. My journey
