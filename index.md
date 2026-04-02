@@ -105,6 +105,8 @@ layout: null
 
 ## 3. Media software {#mediasoftware}
 
+- [Bypass Paywall on Brave](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
+
 - [Handbrake](https://handbrake.fr/)
 
 - [Shutter Transcoder](https://www.shutterencoder.com/) - A converter designed by video editors.
