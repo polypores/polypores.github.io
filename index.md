@@ -87,15 +87,19 @@ layout: null
 
 - [Easy-GPU-PV - GPU Paravirtualization on Windows Hyper-V easier](https://github.com/jamesstringer90/Easy-GPU-PV) by @jamesstringer90
 
+- [Netmark Webinar - Triển khai Peplink SD-WAN cho ngành bán lẻ, chuỗi cửa hàng 24h và coffee shop](https://password.link/TgyHk01f/#M3EtNUQkVj96aVtmOFNpKlJO)
+
+- [Webinar: Giải pháp Load Balancing & SD-WAN Peplink cho doanh nghiệp lớn và hệ thống đa chi nhánh](https://password.link/Rug5h5gf/#VlJzM0F9TXNBe0lLfHotTiFS)
+
 ## 2. Network Software {#networksoft}
 
-- [UUP Dump](https://uupdump.net/)
+- [UUP Dump](https://shr.pn/hFve)
 
 - [Ultimate vocal remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
-- [Mumuplayer](https://github.com/Anjok07/ultimatevocalremovergui) - Android Emulator
+- [Mumuplayer](https://www.mumuplayer.com/) - Android Emulator
 
-- [Windhawk](https://www.mumuplayer.com/)
+- [Windhawk](https://windhawk.net/)
 
 - [John the Ripper](https://www.openwall.com/john/)
 
@@ -111,7 +115,7 @@ layout: null
 
 - [Shutter Transcoder](https://www.shutterencoder.com/) - A converter designed by video editors.
 
-    ([Bài test mình thực hiện](https://postimg.cc/gallery/tHsF1Hm))
+    ([Bài test mình thực hiện](https://shr.pn/9aU4))
     
 - [Jekyll](https://jekyllrb.com/) - Jekyll is a static site generator (SSG) written in Ruby. 
 
