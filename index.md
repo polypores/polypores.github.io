@@ -91,6 +91,8 @@ layout: null
 
 - [Webinar: Giải pháp Load Balancing & SD-WAN Peplink cho doanh nghiệp lớn và hệ thống đa chi nhánh](https://password.link/Rug5h5gf/#VlJzM0F9TXNBe0lLfHotTiFS)
 
+- [Netmark | EnGenius - Webinar Giải pháp phủ sóng WiFi cho khách sạn](https://shr.pn/cpnO)
+
 ## 2. Network Software {#networksoft}
 
 - [UUP Dump](https://shr.pn/hFve)
@@ -106,6 +108,8 @@ layout: null
 - [Hashcat](https://hashcat.net/hashcat/)
 
 - [PSU Tier List (mang tính chất tham khảo)](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=931697732#gid=931697732)
+
+- [PlantUML](https://plantuml.com/)
 
 ## 3. Media software {#mediasoftware}
 
@@ -363,5 +367,6 @@ layout: null
 
 [Here](https://polypores.github.io/myjourney).
 
+P@ssw0rd for some links: Polypores@
 
 </div>
