@@ -202,4 +202,11 @@ layout: null
 
 P@ssw0rd for some links: Polypores@
 
+<!-- 
+TODO: Rewrite this section later.
+This entire block of text will be hidden from the visible website.
+-->
+
+<span style="display: none;">This text is hidden.</span>
+
 </div>
