@@ -91,11 +91,19 @@ layout: null
 
 - [Webinar: Giải pháp Load Balancing & SD-WAN Peplink cho doanh nghiệp lớn và hệ thống đa chi nhánh](https://password.link/Rug5h5gf/#VlJzM0F9TXNBe0lLfHotTiFS)
 
-- [Netmark | EnGenius - Webinar Giải pháp phủ sóng WiFi cho khách sạn](https://shr.pn/cpnO)
+- [Netmark | EnGenius - Webinar Giải pháp phủ sóng WiFi cho khách sạn](https://shr.pn/cpnO) by Netmark Distribution.
+
+- [RDP Bitmap Cache - Piece(s) of the Puzzle](https://www.thedfirspot.com/post/rdp-bitmap-cache-piece-s-of-the-puzzle) by The DFIR Spot.
+
+- [The remote desktop puzzle. DFIR techniques for dealing with RDP Bitmap Cache](https://www.pentestpartners.com/security-blog/the-remote-desktop-puzzle-dfir-techniques-for-dealing-with-rdp-bitmap-cache/) by Joseph Williams.
 
 ## 2. Network Software {#networksoft}
 
+- [LibreOffice](https://www.libreoffice.org/)
+
 - [UUP Dump](https://shr.pn/hFve)
+
+- [MicroWin](https://github.com/CodingWonders/MicroWin)
 
 - [Ultimate vocal remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
@@ -110,6 +118,10 @@ layout: null
 - [PSU Tier List (mang tính chất tham khảo)](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=931697732#gid=931697732)
 
 - [PlantUML](https://plantuml.com/)
+
+- [Veracrypt](https://veracrypt.io/en/Home.html) - Disk encryption with strong security based on TrueCrypt
+
+- [HackBGRT](https://github.com/metabolix/hackbgrt) - Windows boot logo changer for UEFI systems
 
 ## 3. Media software {#mediasoftware}
 
@@ -137,8 +149,9 @@ layout: null
 
 - [Audio Auditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback.
 
-## 4. Memory training software {#memorytrainingsoftware}
+- [Foobar2000](https://www.foobar2000.org/) - Advanced freeware audio player.
 
+## 4. Memory training software {#memorytrainingsoftware}
 
 - [Anki](https://apps.ankiweb.net/)
 
