@@ -91,7 +91,7 @@ layout: null
 
 - [Webinar: Giải pháp Load Balancing & SD-WAN Peplink cho doanh nghiệp lớn và hệ thống đa chi nhánh](https://password.link/Rug5h5gf/#VlJzM0F9TXNBe0lLfHotTiFS)
 
-- [Netmark | EnGenius - Webinar Giải pháp phủ sóng WiFi cho khách sạn](https://shr.pn/cpnO) by Netmark Distribution.
+- [Netmark - EnGenius - Webinar Giải pháp phủ sóng WiFi cho khách sạn](https://shr.pn/cpnO) by Netmark Distribution.
 
 - [RDP Bitmap Cache - Piece(s) of the Puzzle](https://www.thedfirspot.com/post/rdp-bitmap-cache-piece-s-of-the-puzzle) by The DFIR Spot.
 
